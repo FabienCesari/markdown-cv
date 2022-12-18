@@ -21,7 +21,7 @@ Embedded Electronics, Real Time Signal processing, Audio Synthesis, Algorithmic 
 
 ### Experience
 `2014-Now`
-[Sequential LLC](https://www.sequential.com/), San Francisco
+[Sequential LLC](https://www.sequential.com/) / Dave Smith Instruments, San Francisco
 - __Embedded Software Engineer__
 - Part of a small software team, writing the main software and DSP code.
 - Participating in design and architecture of software and hardware.
