@@ -11,7 +11,7 @@ Software, Hardware, Signal Processing and Music.
 </div>
 
 ## Currently
-Software Engineer at Sequential LLC
+Senior Software Engineer at Sequential LLC
 
 ## Specialized in
 Real Time Embedded Software, Hardware Design 
