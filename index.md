@@ -21,8 +21,8 @@ Embedded Electronics, Real Time Signal processing, Audio Synthesis, Algorithmic 
 
 ## Education
 `2007-2011`
-__Masters of Engineering__
-Ecole Nationale Superieure de l’Electronique et de ses Applications [ENSEA](https://www.ensea.fr/en) 
+__Masters of Engineering__<br />
+[ENSEA](https://www.ensea.fr/en) Ecole Nationale Superieure de l’Electronique et de ses Applications 
 - Graduate School in Electrical Engineering, Computer Science and Telecommunications.
 - Major : Signal Processing, Real-Time & Communications (with honors).
 - Three elective courses : Musical Acoustics, Speech Processing, Image Processing.
@@ -33,6 +33,7 @@ Ecole Nationale Superieure de l’Electronique et de ses Applications [ENSEA](ht
 `2014-Now`
 [Sequential LLC](https://www.sequential.com/), San Francisco
 - Part of a small software team,  writing the main software and DSP code.
+- Board bring up and hardware debugging
 - Implemented bootloader for PIC32 microcontrolers and Analog Devices ARM.
 - Implemented front panel handling with STM32 and inter-chip communication.
 - Responsible for writing tools in Python and automating software tasks.
