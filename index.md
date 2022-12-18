@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Fabien Cesari's CV
+title: Isaac Newtons's CV
 ---
-# Fabien Cesari
-Software, Hardware, Signal Proessing and Music.
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="fabien@dalba.studio">fabien@dalba.studio</a>
-| <a href="https://www.cesari.studio/">blog</a> | | <a href="https://github.com/FabienCesari"">GitHub</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Software developer at Sequential LLC
+Standing on the shoulders of giants
 
 ### Specialized in
 
