@@ -6,7 +6,7 @@ title: Fabien Cesari's CV
 Software, Hardware, Signal Proessing and Music.
 
 <div id="webaddress">
-<a href="fabien@dalba.studio">fabien@dalba.studio</a>
+<a href="mailto: fabien@dalba.studio">fabien@dalba.studio</a>
 | <a href="https://www.cesari.studio/">blog</a> |  <a href="https://github.com/FabienCesari"">GitHub</a>
 </div>
 
