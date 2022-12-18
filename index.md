@@ -17,7 +17,7 @@ Software engineer at Sequential LLC
 Real time embedded Software, Hardware design 
 
 ### interests
-Embedded Electronics, Real Time Signal processing, Audio Synthesis, Algorithmic Music 
+Embedded Electronics, Real Time Signal processing, Audio Synthesis, Algorithmic Music, Machine learning 
 
 ## Education
 `2007-2011`
@@ -29,32 +29,47 @@ __Masters of Engineering__<br />
 
 
 ### Experience
-
 `2014-Now`
 [Sequential LLC](https://www.sequential.com/), San Francisco
-- Part of a small software team,  writing the main software and DSP code.
+- Part of a small software team, writing the main software and DSP code.
+- Participating in design and architecture of software and hardware.
 - Board bring up and hardware debugging
 - Implemented bootloader for PIC32 microcontrolers and Analog Devices ARM.
 - Implemented front panel handling with STM32 and inter-chip communication.
-- Responsible for writing tools in Python and automating software tasks.
+- Responsible for writing tools in Python and automating software tasks, generating firmware updates.
 - Organised version control system as well as bug tracking system.
+- C, C++, freeRTOS, QNX, Python
 
+`2012-2013`
+[IRCAM](https://www.ircam.fr/), Paris - Institute for Research and Coordination in Acoustics/Music 
+- Research Engineer
+- Project Sample Orchestrator II:  Development of a real time spectral envelope generator based on a instrument model approach. 
+- Hartis:  Optimization and development of a max/msp based modular synthesizer. 
+- C, C++,Python,  Matlab - mex, development of externals for Max/Msp - svn, git
 
-## Occupation
+`2011 Sept. 2012` 
+Arkamys, Paris
+-Real time embedded Engineer
+- Development of a real time HMM based speech recognition application embedded on an ARM/DSP platform.
+- C, C++,Python, Texas Instrument ARM/DSP, Embedded unix, STM32 card based on ARM, HTK.
 
-`1600`
-__Royal Mint__, London
+`2011`
+- 6 Months Masters Internship 
+- Voxler Games, Paris 
+- Developed of a C++ sound clustering application to be implemented in Aldebaran Robotics "Nao" robot.
+- C, C++, Python, Qt, Speex, HTK.
 
-- Warden
-- Minted coins
+## Personal Projects and hobbies
+- USB class compliant audio/CV interface for modular synthesizer. Hardware and Software
+- Digital Synthesizer based around Raspberry-Pi 4 compute module and supercollider 
+- XMOS chip, XC, C, Raspberry-pi
+- Home made electronics projects: Pick and place machine and reflow oven, 3d Printer
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Languages
+French (First language)
+English (Fluent)
 
 <!-- ### Footer
-
 Last updated: May 2013 -->
 
 
