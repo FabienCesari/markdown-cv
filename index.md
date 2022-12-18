@@ -13,17 +13,17 @@ Software, Hardware, Signal Processing and Music.
 ## Currently
 Software Engineer at Sequential LLC
 
-### Specialized in
+## Specialized in
 Real Time Embedded Software, Hardware Design 
 
-### Interests
+## Interests
 Embedded Electronics, Real Time Signal Processing, Audio Synthesis, Algorithmic Music, Machine Learning 
 
-### Experience
-`2014-Now`
+## Experience
+#### `2014-Now`
 [Sequential LLC](https://www.sequential.com/) / Dave Smith Instruments, San Francisco
 - __Embedded Software Engineer__
-- Part of a small software team, responsible for writing the main software and DSP code.
+- Part of a small software team, responsible for the main software and DSP code.
 - Participating in design and architecture of software and hardware.
 - Board bring up and hardware debugging.
 - Implemented bootloader for PIC32 microcontrolers and Analog Devices ARM.
@@ -33,14 +33,14 @@ Embedded Electronics, Real Time Signal Processing, Audio Synthesis, Algorithmic 
 - Set up and organized version control system, as well as bug tracking system.
 - C, C++, freeRTOS, QNX, Python, javascript, webassembly
 
-`2012-2013`
+#### `2012-2013`
 [IRCAM](https://www.ircam.fr/), Paris - Institute for Research and Coordination in Acoustics/Music 
 - __Research Engineer__
 - Project Sample Orchestrator II:  Development of a real time spectral envelope generator based on a instrument model approach. 
 - Hartis:  Optimization and development of a max/msp based modular synthesizer. 
 - C, C++,Python,  Matlab - mex, development of externals for Max/Msp - svn, git
 
-`2011-2012` 
+#### `2011-2012` 
 Arkamys, Paris
 - __Emmbedded Software Engineer__
 - Development of a real time HMM based speech recognition application embedded on an ARM/DSP platform.
@@ -53,7 +53,7 @@ Arkamys, Paris
 - C, C++, Python, Qt, Speex, HTK.
 
 ## Education
-`2007-2011`
+#### `2007-2011`
 [ENSEA](https://www.ensea.fr/en) Ecole Nationale Superieure de l’Electronique et de ses Applications 
 - __Masters of Engineering__
 - Graduate School in Electrical Engineering, Computer Science and Telecommunications.
@@ -70,7 +70,7 @@ Arkamys, Paris
 - Running, Rowing, Cycling.
 
 ## Languages
-French (First language)
+French (First language),
 English (Fluent)
 
 <!-- ### Footer
