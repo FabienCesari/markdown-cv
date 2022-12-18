@@ -10,51 +10,33 @@ Software, Hardware, Signal Proessing and Music.
 | <a href="https://www.cesari.studio/">blog</a> |  <a href="https://github.com/FabienCesari"">GitHub</a>
 </div>
 
-
 ## Currently
-
-Software developer at Sequential LLC
+Software engineer at Sequential LLC
 
 ### Specialized in
+Real time embedded Software, Hardware design 
 
-Embedded Software, Hardware design 
+### interests
+Embedded Electronics, Real Time Signal processing, Audio Synthesis, Algorithmic Music 
 
 ## Education
-
 `2007-2011`
 __Masters of Engineering__
-Ecole Nationale Superieure de l’Electronique et de ses Applications [ENSEA](https://www.ensea.fr/en) , Cergy, Graduate School in Electrical Engineering, Computer Science and Telecommunications.
-Major : Signal Processing, Real-Time & Communications (with honors).
-Three elective courses : Musical Acoustics, Speech Processing, Image Processing.
+Ecole Nationale Superieure de l’Electronique et de ses Applications [ENSEA](https://www.ensea.fr/en) 
+- Graduate School in Electrical Engineering, Computer Science and Telecommunications.
+- Major : Signal Processing, Real-Time & Communications (with honors).
+- Three elective courses : Musical Acoustics, Speech Processing, Image Processing.
 
 
-## Awards
+### Experience
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2014-Now`
+[Sequential LLC](https://www.sequential.com/), San Francisco
+- Part of a small software team,  writing the main software and DSP code.
+- Implemented bootloader for PIC32 microcontrolers and Analog Devices ARM.
+- Implemented front panel handling with STM32 and inter-chip communication.
+- Responsible for writing tools in Python and automating software tasks.
+- Organised version control system as well as bug tracking system.
 
 
 ## Occupation
