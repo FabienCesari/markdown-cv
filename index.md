@@ -7,7 +7,7 @@ Software, Hardware, Signal Proessing and Music.
 
 <div id="webaddress">
 <a href="fabien@dalba.studio">fabien@dalba.studio</a>
-| <a href="https://www.cesari.studio/">blog</a> | | <a href="https://github.com/FabienCesari"">GitHub</a>
+| <a href="https://www.cesari.studio/">blog</a> |  <a href="https://github.com/FabienCesari"">GitHub</a>
 </div>
 
 
@@ -17,29 +17,15 @@ Software developer at Sequential LLC
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Embedded Software, Hardware design 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2007-2011`
+__Masters of Engineering__
+Ecole Nationale Superieure de l’Electronique et de ses Applications [ENSEA](https://www.ensea.fr/en) , Cergy, Graduate School in Electrical Engineering, Computer Science and Telecommunications.
+Major : Signal Processing, Real-Time & Communications (with honors).
+Three elective courses : Musical Acoustics, Speech Processing, Image Processing.
 
 
 ## Awards
