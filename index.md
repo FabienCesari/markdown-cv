@@ -29,9 +29,9 @@ Embedded Electronics, Real Time Signal Processing, Audio Synthesis, Algorithmic 
 - Implemented bootloader for PIC32 microcontrolers and Analog Devices ARM.
 - Implemented front panel handling with STM32 and inter-chip communication.
 - Responsible for writing tools in Python, automating software tasks and generating firmware updates.
-- Built the [Sequential Waves](https://www.sequentialwaves.com/) website backend using python and webassembly.
+- Built the [Sequential Waves](https://www.sequentialwaves.com/) website using Javascript, python and webassembly.
 - Set up and organized version control system, as well as bug tracking system.
-- C, C++, freeRTOS, QNX, Python, javascript, webassembly
+- C, C++, freeRTOS, QNX, Python, javascript, webassembly, STM32, PIC, Analog Devices, Altium, Git
 
 `2012-2013`
 [IRCAM](https://www.ircam.fr/), Paris - Institute for Research and Coordination in Acoustics/Music 
