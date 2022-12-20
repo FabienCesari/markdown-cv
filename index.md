@@ -6,8 +6,7 @@ title: Fabien Cesari's CV
 Software, Hardware, Signal Processing and Music.
 
 <div id="webaddress">
-<a href="mailto: fabien@dalba.studio">fabien@dalba.studio</a>
-| <a href="https://www.cesari.studio/">blog</a> |  <a href="https://github.com/FabienCesari">GitHub</a>
+<a href="mailto: fabien.cesari@gmail.com">fabien.cesari@gmail.com</a>
 </div>
 
 ### Currently
@@ -22,14 +21,14 @@ Embedded Electronics, Real Time Signal Processing, Audio Synthesis, Algorithmic 
 ### Experience
 `2014-Now`
 [Sequential LLC](https://www.sequential.com/) / Dave Smith Instruments, San Francisco
-- __Embedded Software Engineer__
+- __Embedded Systemes Engineer__
 - Part of a small software team, responsible for the main software and DSP code.
 - Participating in design and architecture of software and hardware.
 - Board bring up and hardware debugging.
 - Implemented bootloader for PIC32 microcontrolers and Analog Devices ARM.
 - Implemented front panel handling with STM32 and inter-chip communication.
 - Responsible for writing tools in Python, automating software tasks and generating firmware updates.
-- Built the [Sequential Waves](https://www.sequentialwaves.com/) website using Javascript, python and webassembly.
+- Built [www.sequentialwaves.com](https:// www.sequentialwaves.com/)  using Javascript, python and webassembly.
 - Set up and organized version control system, as well as bug tracking system.
 - C, C++, freeRTOS, QNX, Python, javascript, webassembly, STM32, PIC, Analog Devices, Altium, Git
 
