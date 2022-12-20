@@ -53,7 +53,7 @@ Arkamys, Paris
 - Developed a C++ sound clustering application to be implemented in Aldebaran Robotics "Nao" robot.
 - C, C++, Python, Qt, Speex, HTK.
 
-### Education 
+### Education
 `2007-2011`
 [ENSEA](https://www.ensea.fr/en) Ecole Nationale Superieure de l’Electronique et de ses Applications 
 - __Master of Engineering__
@@ -61,7 +61,7 @@ Arkamys, Paris
 - Major: Signal Processing, Real-Time & Communications (with honors).
 - Three elective courses: Musical Acoustics, Speech Processing, Image Processing.
 
-### Personal Projects and Hobbies 
+### Projects and Hobbies
 - USB class compliant audio/CV interface for modular synthesizer (KICAD, XMOS, XC, C, BOMIST)
 - Digital Synthesizer based around Raspberry-Pi 4 compute module and supercollider.
 - Fabrication Projects: Open-source pick-and-place machine and reflow oven, 3D Printer.
@@ -69,7 +69,7 @@ Arkamys, Paris
 - Musical Instruments: Synthesizers, Piano, Bass, Guitar.
 - Running, Rowing, Cycling.
 
-### Languages 
+### Languages
 French (First language),
 English (Fluent)
 
