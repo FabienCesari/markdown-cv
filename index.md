@@ -63,7 +63,7 @@ Arkamys, Paris
 - Three elective courses: Musical Acoustics, Speech Processing, Image Processing.
 
 ### Projects and Hobbies
-- USB class compliant audio/CV interface for modular synthesizer (KICAD, XMOS, XC, C, BOMIST)
+- USB class compliant audio/CV interface for modular synthesizer (KICAD, XMOS, XCORE-200 series, XC, C, BOMIST)
 - Digital Synthesizer based around Raspberry-Pi 4 compute module and supercollider.
 - Fabrication Projects: Open-source pick-and-place machine and reflow oven, 3D Printer.
 - Algorithmic music and live coding Max/MSP, Pure Data, Supercollider.
