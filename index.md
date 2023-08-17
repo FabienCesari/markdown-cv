@@ -6,10 +6,10 @@ title: Fabien Cesari's CV
 # Fabien Cesari
 Software, Hardware, Signal Processing and Music.
 
-<!-- <div id="webaddress"> -->
-<!-- <a href="mailto: name@gmail.com">name@gmail.com</a> -->
-<!-- <a href="tel:">415-</a> -->
-<!-- </div> -->
+<div id="webaddress">
+<a href="mailto: name@gmail.com">name@gmail.com</a>
+<a href="tel:">415-</a>
+</div>
 
 ### Currently
 Senior Software Engineer at Sequential LLC
