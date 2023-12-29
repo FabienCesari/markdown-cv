@@ -23,7 +23,7 @@ Embedded Electronics, Real Time Signal Processing, Audio Synthesis, Algorithmic 
 
 ### Experience
 `2014-Now`
-[Sequential LLC](https://www.sequential.com/) / [Oberheim](https://oberheim.com/) /Dave Smith Instruments, San Francisco
+[Sequential LLC](https://www.sequential.com/) / [Oberheim](https://oberheim.com/) / Dave Smith Instruments, San Francisco
 - __Embedded Systemes Engineer__
 - Part of a small software team, responsible for the main software and DSP code.
 - Participating in design and architecture of software and hardware.
