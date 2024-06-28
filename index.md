@@ -18,7 +18,7 @@ Senior Software Engineer at Sequential LLC / Oberheim
 Embedded Software and Hardware for audio applicatons
 
 ### Interests
-Embedded Electronics, Real Time Signal Processing,
+Embedded Electronics, Real Time Signal Processing, Systems development, Machine learning for musical applications
 
 ### Experience
 `2014-Now`
@@ -60,15 +60,13 @@ Arkamys, Paris
 - Major: Signal Processing, Real-Time & Communications (with honors).
 - Three elective courses: Musical Acoustics, Speech Processing, Image Processing.
 
-### Personal Projects and Music practice
+### Personal Practices
 - USB class compliant audio/CV interface for modular synthesizer (XMOS, XCORE-200 series, XC, C, KICAD, BOMIST)
 - Digital Synthesizer based around Raspberry-Pi 4 compute module and supercollider.
 - Guitar pedals and effects processor - Hardware and Software. Digitally controlled analog and digital processing.
 - In house Manufacturing with Open-source pick-and-place machine and reflow oven, 3D Printer.
 - Algorithmic music and live coding Max/MSP, Pure Data, Supercollider.
 - Musical Instruments: Synthesizers, Piano, Bass, Guitar.
-
-### Hobbies
 - Ultra Running, Cycling, Rowing.
 
 ### Languages
