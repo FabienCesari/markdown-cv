@@ -23,14 +23,14 @@ Embedded Electronics, Real Time Signal Processing, Systems development, Instrume
 ### Experience
 `2014-Now`
 [Sequential LLC](https://www.sequential.com/) / [Oberheim](https://oberheim.com/) / Dave Smith Instruments, San Francisco
-- __Embedded Systemes Engineer__
-- Part of a small software team responsible writing the firmware for analog synthesizers.
+- __Embedded Firmware Engineer__
+- Part of a small team responsible for writing the firmware for analog synthesizers.
 - Participating in design and architecture of software and hardware.
 - Board bring up and hardware debugging.
-- Responsible for implementing bootloader for PIC32 / STM32 / ADI- ARM/DSP and front panel firmware with STM32.
+- Responsible for implementing bootloader and front panel firmware for PIC32 / STM32 / ADSP-57X.
 - Development tools in Python, automating software tasks and generating firmware updates.
 - Set up and organized version control system and project tracking system.
-- Side Project: Built [www.sequentialwaves.com](https://www.sequentialwaves.com/)  using Javascript, python and webassembly.
+- Side Project: wavetable generator for the Pro3 [www.sequentialwaves.com](https://www.sequentialwaves.com) Javascript, python and webassembly.
 - Tools: C, C++, Python, freeRTOS, QNX, STM32 ARM, PIC, Analog Devices DSP/ARM, Git
 
 `2012-2013`
@@ -60,9 +60,9 @@ Arkamys, Paris
 - Major: Signal Processing, Real-Time & Communications (with honors).
 - Three elective courses: Musical Acoustics, Speech Processing, Image Processing.
 
-### Personal Practices
-- USB class compliant audio/CV interface for modular synthesizer (Xmos XCORE-200, XC, C, KICAD)
-- Guitar pedals and effects processor. Digitally controlled analog and digital processing.
+### Personal Projects
+- Development of a USB audio/CV interface for modular synthesizer (Xmos XCORE-200, XC, C, KICAD)
+- Guitar pedals and effects processors - Digitally controlled analog and digital processing.
 - In house Manufacturing with Open-source pick-and-place machine / reflow oven /3D Printer.
 - Algorithmic music and live coding Max/MSP, Pure Data, Supercollider.
 - Musical Instruments: Synthesizers, Piano, Bass, Guitar.
