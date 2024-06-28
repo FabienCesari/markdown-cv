@@ -18,7 +18,7 @@ Senior Software Engineer at Sequential LLC / Oberheim
 Embedded Software and Hardware for audio applicatons
 
 ### Interests
-Embedded Electronics, Real Time Signal Processing, 
+Embedded Electronics, Real Time Signal Processing,
 
 ### Experience
 `2014-Now`
@@ -27,14 +27,11 @@ Embedded Electronics, Real Time Signal Processing,
 - Part of a small software team responsible for the instruments firmwares, digital processing of analog control voltages, interfacing hardware and software.
 - Participating in design and architecture of software and hardware.
 - Board bring up and hardware debugging.
-- Responsible for implementing bootloader for PIC32 / STM32 / ADI- ARM/DSP
-- Responsoble for front panel firmware with STM32.
+- Responsible for implementing bootloader for PIC32 / STM32 / ADI- ARM/DSP and front panel firmware with STM32.
 - Responsible for writing tools in Python, automating software tasks and generating firmware updates.
 - Set up and organized version control system, as well as bug tracking system.
 - C, C++, freeRTOS, QNX, Python, javascript, webassembly, STM32, PIC, Analog Devices, Altium, Git
-
-- #### Side project
-- Built [www.sequentialwaves.com](https:// www.sequentialwaves.com/)  using Javascript, python and webassembly.
+- Side Project: Built [www.sequentialwaves.com](https:// www.sequentialwaves.com/)  using Javascript, python and webassembly.
 
 `2012-2013`
 [IRCAM](https://www.ircam.fr/), Paris - Institute for Research and Coordination in Acoustics/Music
@@ -63,13 +60,11 @@ Arkamys, Paris
 - Major: Signal Processing, Real-Time & Communications (with honors).
 - Three elective courses: Musical Acoustics, Speech Processing, Image Processing.
 
-### Personal Projects
+### Personal Projects and Music practice
 - USB class compliant audio/CV interface for modular synthesizer (XMOS, XCORE-200 series, XC, C, KICAD, BOMIST)
 - Digital Synthesizer based around Raspberry-Pi 4 compute module and supercollider.
 - Guitar pedals and effects processor - Hardware and Software. Digitally controlled analog and digital processing.
 - In house Manufacturing with Open-source pick-and-place machine and reflow oven, 3D Printer.
-
-### Musical Practice
 - Algorithmic music and live coding Max/MSP, Pure Data, Supercollider.
 - Musical Instruments: Synthesizers, Piano, Bass, Guitar.
 
@@ -77,8 +72,7 @@ Arkamys, Paris
 - Ultra Running, Cycling, Rowing.
 
 ### Languages
-French (First language),
-English (Fluent)
+French, English
 
 <!-- ### Footer
 Last updated: May 2013 -->
