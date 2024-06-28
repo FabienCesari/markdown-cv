@@ -4,7 +4,7 @@ title: Fabien Cesari's CV
 ---
 
 # Fabien Cesari
-Electronic Music Instruements Design
+Software, Hardware, Electronic Music Instruments Design
 
 <div id="webaddress">
 <a href="mailto: fabien@sequential.com">fabien@sequential.com</a>
