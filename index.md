@@ -4,7 +4,7 @@ title: Fabien Cesari's CV
 ---
 
 # Fabien Cesari
-Software, Hardware, Signal Processing and Music.
+Electronic Music Instruements Design
 
 <div id="webaddress">
 <a href="mailto: fabien@sequential.com">fabien@sequential.com</a>
