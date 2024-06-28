@@ -15,23 +15,23 @@ Software, Hardware, Signal Processing and Music.
 Senior Software Engineer at Sequential LLC / Oberheim
 
 ### Specialized in
-Embedded Software and Hardware for audio applicatons
+Embedded Software and Hardware for audio applicatons / Digital control of analog electronics
 
 ### Interests
-Embedded Electronics, Real Time Signal Processing, Systems development, Machine learning for musical applications
+Embedded Electronics, Real Time Signal Processing, Systems development, Instruments design.
 
 ### Experience
 `2014-Now`
 [Sequential LLC](https://www.sequential.com/) / [Oberheim](https://oberheim.com/) / Dave Smith Instruments, San Francisco
 - __Embedded Systemes Engineer__
-- Part of a small software team responsible for the instruments firmwares, digital processing of analog control voltages, interfacing hardware and software.
+- Part of a small software team responsible writing the firmware for analog synthesizers.
 - Participating in design and architecture of software and hardware.
 - Board bring up and hardware debugging.
 - Responsible for implementing bootloader for PIC32 / STM32 / ADI- ARM/DSP and front panel firmware with STM32.
-- Development  tools in Python, automating software tasks and generating firmware updates.
+- Development tools in Python, automating software tasks and generating firmware updates.
 - Set up and organized version control system and project tracking system.
 - Side Project: Built [www.sequentialwaves.com](https:// www.sequentialwaves.com/)  using Javascript, python and webassembly.
-- Tools: C, C++, freeRTOS, QNX, Python, javascript, webassembly, STM32, PIC, Analog Devices, Altium, Git
+- Tools: C, C++, Python, freeRTOS, QNX, STM32 ARM, PIC, Analog Devices DSP/ARM, Git
 
 `2012-2013`
 [IRCAM](https://www.ircam.fr/), Paris - Institute for Research and Coordination in Acoustics/Music
