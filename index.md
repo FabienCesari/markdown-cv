@@ -30,7 +30,7 @@ Embedded Electronics, Real Time Signal Processing, Systems development, Instrume
 - Responsible for implementing bootloader for PIC32 / STM32 / ADI- ARM/DSP and front panel firmware with STM32.
 - Development tools in Python, automating software tasks and generating firmware updates.
 - Set up and organized version control system and project tracking system.
-- Side Project: Built [www.sequentialwaves.com](https:// www.sequentialwaves.com/)  using Javascript, python and webassembly.
+- Side Project: Built [www.sequentialwaves.com](https://www.sequentialwaves.com/)  using Javascript, python and webassembly.
 - Tools: C, C++, Python, freeRTOS, QNX, STM32 ARM, PIC, Analog Devices DSP/ARM, Git
 
 `2012-2013`
