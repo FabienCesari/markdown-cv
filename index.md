@@ -25,8 +25,8 @@ Embedded Electronics, Real Time Signal Processing, Systems development, Instrume
 [Sequential LLC](https://www.sequential.com/) / [Oberheim](https://oberheim.com/) / Dave Smith Instruments, San Francisco
 - __Embedded Firmware Engineer__
 - Part of a small team responsible for writing the firmware for analog synthesizers.
-- Participating in design and architecture of software and hardware.
-- Board bring up and hardware debugging.
+- Participating in design and architecture of software and hardware -hardware bring up.
+- Writing real time DSP code for CV controls and audio processing.
 - Responsible for implementing bootloader and front panel firmware for PIC32 / STM32 / ADSP-57X.
 - Development tools in Python, automating software tasks and generating firmware updates.
 - Set up and organized version control system and project tracking system.
