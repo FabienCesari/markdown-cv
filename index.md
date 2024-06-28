@@ -7,7 +7,7 @@ title: Fabien Cesari's CV
 Software, Hardware, Signal Processing and Music.
 
 <div id="webaddress">
-<a href="mailto: fabien.cesari@gmail.com">fabien.cesari@gmail.com</a>
+<a href="mailto: fabien@sequential.com">fabien@sequential.com</a>
 <a href="tel:">+1(415)-290-0276</a>
 </div>
 
