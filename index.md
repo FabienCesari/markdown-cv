@@ -28,10 +28,10 @@ Embedded Electronics, Real Time Signal Processing, Systems development, Machine 
 - Participating in design and architecture of software and hardware.
 - Board bring up and hardware debugging.
 - Responsible for implementing bootloader for PIC32 / STM32 / ADI- ARM/DSP and front panel firmware with STM32.
-- Responsible for writing tools in Python, automating software tasks and generating firmware updates.
-- Set up and organized version control system, as well as bug tracking system.
-- C, C++, freeRTOS, QNX, Python, javascript, webassembly, STM32, PIC, Analog Devices, Altium, Git
+- Development  tools in Python, automating software tasks and generating firmware updates.
+- Set up and organized version control system and project tracking system.
 - Side Project: Built [www.sequentialwaves.com](https:// www.sequentialwaves.com/)  using Javascript, python and webassembly.
+- Tools: C, C++, freeRTOS, QNX, Python, javascript, webassembly, STM32, PIC, Analog Devices, Altium, Git
 
 `2012-2013`
 [IRCAM](https://www.ircam.fr/), Paris - Institute for Research and Coordination in Acoustics/Music
@@ -62,8 +62,8 @@ Arkamys, Paris
 
 ### Personal Practices
 - USB class compliant audio/CV interface for modular synthesizer (Xmos XCORE-200, XC, C, KICAD)
-- Guitar pedals and effects processor - Hardware and Software. Digitally controlled analog and digital processing.
-- In house Manufacturing with Open-source pick-and-place machine and reflow oven, 3D Printer.
+- Guitar pedals and effects processor. Digitally controlled analog and digital processing.
+- In house Manufacturing with Open-source pick-and-place machine / reflow oven /3D Printer.
 - Algorithmic music and live coding Max/MSP, Pure Data, Supercollider.
 - Musical Instruments: Synthesizers, Piano, Bass, Guitar.
 - Ultra Running, Cycling, Rowing.
