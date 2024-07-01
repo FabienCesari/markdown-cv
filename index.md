@@ -15,30 +15,30 @@ Software, Hardware, Electronic Music Instruments Design
 Senior Software Engineer at Sequential LLC / Oberheim
 
 ### Specialized in
-Embedded Software and Hardware for audio applicatons / Digital control of analog electronics
+Embedded Software and Hardware for audio applications / Digital control of analog electronics
 
 ### Interests
-Embedded Electronics, Real Time Signal Processing, Systems development, Instruments design.
+Embedded Electronics, Real Time Signal Processing, Systems Development, Instruments Design.
 
 ### Experience
 `2014-Now`
 [Sequential LLC](https://www.sequential.com/) / [Oberheim](https://oberheim.com/) / Dave Smith Instruments, San Francisco
 - __Embedded Firmware Engineer__
 - Part of a small team responsible for writing the firmware for analog synthesizers.
-- Participating in design and architecture of software and hardware -hardware bring up.
+- Participating in design and architecture of software and hardware / hardware bring up.
 - Writing real time DSP code for CV controls and audio processing.
 - Responsible for implementing bootloader and front panel firmware for PIC32 / STM32 / ADSP-57X.
 - Development tools in Python, automating software tasks and generating firmware updates.
 - Set up and organized version control system and project tracking system.
-- Side Project: wavetable generator for the Pro3 [www.sequentialwaves.com](https://www.sequentialwaves.com) Javascript, python and webassembly.
-- Tools: C, C++, Python, freeRTOS, QNX, STM32 ARM, PIC, Analog Devices DSP/ARM, Git
+- Development of a wavetable generator for the Pro3. [_www.sequentialwaves.com_](https://www.sequentialwaves.com) - Javascript, Python, Webassembly.
+- Tools: C, C++, Python, freeRTOS, QNX, STM32 ARM, PIC, Analog Devices DSP/ARM, git.
 
 `2012-2013`
 [IRCAM](https://www.ircam.fr/), Paris - Institute for Research and Coordination in Acoustics/Music
 - __Research Engineer__
-- Project Sample Orchestrator II:  Development of a real time spectral envelope generator based on a instrument model approach.
+- Project Sample Orchestrator II:  Development of a real time spectral envelope generator based on an instrument model approach.
 - Hartis:  Optimization and development of a max/msp based modular synthesizer.
-- C, C++, Python,  Matlab - mex, development of externals for Max/Msp - svn, git
+- C, C++, Python, Matlab, development of Max/Msp externals , svn, git.
 
 `2011-2012`
 Arkamys, Paris
@@ -61,9 +61,9 @@ Arkamys, Paris
 - Three elective courses: Musical Acoustics, Speech Processing, Image Processing.
 
 ### Personal Projects
-- Development of a USB audio/CV interface for modular synthesizer (Xmos XCORE-200, XC, C, KICAD)
+- Development of a USB audio/CV interface for modular synthesizer (Xmos XCORE-200, XC, C, KICAD).
 - Guitar pedals / Digital effects processors - Digitally control of analog circuitry.
-- In house Manufacturing with Open-source pick-and-place machine / reflow oven /3D Printer.
+- In house Manufacturing with Open-source pick-and-place machine / reflow oven / 3D Printer.
 - Algorithmic music and live coding Max/MSP, Pure Data, Supercollider.
 - Musical Instruments: Synthesizers, Piano, Bass, Guitar.
 - Ultra Running, Cycling, Rowing.
