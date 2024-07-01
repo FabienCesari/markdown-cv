@@ -70,6 +70,5 @@ Arkamys, Paris
 
 ### Languages
 French, English
-
 <!-- ### Footer
 Last updated: May 2013 -->
