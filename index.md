@@ -62,7 +62,7 @@ Arkamys, Paris
 
 ### Personal Projects
 - Development of a USB audio/CV interface for modular synthesizer (Xmos XCORE-200, XC, C, KICAD)
-- Guitar pedals and effects processors - Digitally controlled analog and digital processing.
+- Guitar pedals / Digital effects processors - Digitally control of analog circuitry.
 - In house Manufacturing with Open-source pick-and-place machine / reflow oven /3D Printer.
 - Algorithmic music and live coding Max/MSP, Pure Data, Supercollider.
 - Musical Instruments: Synthesizers, Piano, Bass, Guitar.
