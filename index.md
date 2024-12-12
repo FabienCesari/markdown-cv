@@ -21,8 +21,8 @@ Embedded Electronics, Real Time Signal Processing, Systems Development, Instrume
 
 ### Experience
 `2024`
-[Decade audio](www.decade.audio)
--__Founder__
+[Decade audio](www.decade.audio), Plougastel-Daoulas
+- __Founder__
 - Design and manufacture of electronic music instruments
   
 `2014-2024`
