@@ -7,12 +7,12 @@ title: Fabien Cesari's CV
 Software, Hardware, Electronic Music Instruments Design
 
 <div id="webaddress">
-<a href="mailto: fabien@sequential.com">fabien@sequential.com</a>
-<a href="tel:">+1(415)-290-0276</a>
+<a href="mailto: fabien.cesari@gmail.com">fabien.cesari@gmail.com</a>
+<a href="tel:">(+33)651598730</a>
 </div>
 
 ### Currently
-Senior Software Engineer at Sequential LLC / Oberheim
+Founder at Decade Audio
 
 ### Specialized in
 Embedded Software and Hardware for audio applications / Digital control of analog electronics
@@ -21,7 +21,12 @@ Embedded Software and Hardware for audio applications / Digital control of analo
 Embedded Electronics, Real Time Signal Processing, Systems Development, Instruments Design.
 
 ### Experience
-`2014-Now`
+`2024`
+[Decade audio](www.decade.audio)
+-__Founder__
+- Design and manufacture of electronic music instruments
+  
+`2014-2024`
 [Sequential LLC](https://www.sequential.com/) / [Oberheim](https://oberheim.com/) / Dave Smith Instruments, San Francisco
 - __Embedded Firmware Engineer__
 - Part of a small team responsible for writing the firmware for analog synthesizers.
