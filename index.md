@@ -8,7 +8,6 @@ Software, Hardware, Electronic Music Instruments Design
 
 <div id="webaddress">
 <a href="mailto: fabien.cesari@gmail.com">fabien.cesari@gmail.com</a>
-<a href="tel:">(+33)651598730</a>
 </div>
 
 ### Currently
